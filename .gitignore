@@ -23,3 +23,4 @@ hs_err_pid*
 /neo4j/data/databases/
 /neo4j/data/dbms/
 debug.logs
+*.iml
